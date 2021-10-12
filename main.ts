@@ -24,7 +24,7 @@ for (let índice = 0; índice <= 2; índice++) {
 }
 kitronik_VIEW128x64.drawRect(7, 7, sunX + 6, sunY + 6)
 kitronik_VIEW128x64.drawRect(3, 3, sunX + 8, sunY + 10)
-kitronik_VIEW128x64.setPixel(sunX + 9, sunX + 9)
+kitronik_VIEW128x64.setPixel(sunX + 9, sunY + 9)
 basic.forever(function () {
 	
 })
