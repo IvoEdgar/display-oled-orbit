@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-kitronik-128x64display": "github:kitronikltd/pxt-kitronik-128x64display#v0.3.0"
+        "OLED12864_I2C": "github:makecode-extensions/oled12864_i2c#v1.5.0"
     },
     "files": [
         "main.blocks",
